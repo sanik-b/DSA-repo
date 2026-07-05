@@ -23,7 +23,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-## 🏷️ Topics & Patterns
+##  Topics & Patterns
 
 ### Solved Problems by Category
 - [ ] Arrays & Strings
@@ -41,11 +41,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 ### LeetSync Automation
 1. Solve a problem on LeetCode/GFG/Codeforces
-2. Get **Accepted** ✅
+2. Get **Accepted** 
 3. LeetSync automatically:
    - Creates problem folder
    - Saves your solution
@@ -54,23 +54,23 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-## 💡 Example Solution README
+##  Example Solution README
 
 LeetSync generates a detailed README for each problem:
 
 ![Solution README Example](https://via.placeholder.com/600x300?text=Solution+README+Preview)
 
 **Includes:**
-- 📝 Problem statement
-- ⭐ Difficulty badge
-- ⏱️ Runtime & Memory performance
-- 🏷️ Topic tags
-- 📂 Related problems
-- 💬 Discussion link
+-  Problem statement
+-  Difficulty badge
+-  Runtime & Memory performance
+-  Topic tags
+-  Related problems
+-  Discussion link
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 ### Short Term
 - [ ] Solve 50 Easy problems
@@ -100,7 +100,7 @@ LeetSync generates a detailed README for each problem:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - [LeetSync Extension](https://chrome.google.com/webstore/detail/leetsync)
@@ -120,11 +120,11 @@ cd dsa-repo
    - Select repository and branch
    - Choose languages
 
-3. Start solving! 🎯
+3. Start solving! 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 While this is a personal learning repository, contributions are welcome!
 
@@ -142,10 +142,10 @@ While this is a personal learning repository, contributions are welcome!
 -  Follow coding standards
 
  <div align="center">
-🌟 Star this repository if you find it helpful!
+ Star this repository if you find it helpful!
 
 "Practice doesn't make perfect, it makes progress."
 
-🚀 Happy Coding!
+ Happy Coding!
 
 </div>
