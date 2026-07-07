@@ -149,3 +149,15 @@ While this is a personal learning repository, contributions are welcome!
  Happy Coding!
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sanik-b/DSA-repo/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sanik-b/DSA-repo/tree/master/1929-concatenation-of-array) |
+<!---LeetCode Topics End-->
