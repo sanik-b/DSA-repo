@@ -160,4 +160,16 @@ While this is a personal learning repository, contributions are welcome!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sanik-b/DSA-repo/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanik-b/DSA-repo/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanik-b/DSA-repo/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanik-b/DSA-repo/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
