@@ -155,6 +155,7 @@ While this is a personal learning repository, contributions are welcome!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanik-b/DSA-repo/tree/master/0001-two-sum) |
 | [1929-concatenation-of-array](https://github.com/sanik-b/DSA-repo/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -163,6 +164,7 @@ While this is a personal learning repository, contributions are welcome!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanik-b/DSA-repo/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sanik-b/DSA-repo/tree/master/0242-valid-anagram) |
 ## String
 |  |
